@@ -1,0 +1,7 @@
+# robots.txt file from https://llj.show
+
+# All robots will spider the domain
+
+User-agent:*
+
+Disallow:/images
